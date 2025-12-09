@@ -1,1 +1,2 @@
-web: gunicorn tiktok_comment_likes_app:app
+web: gunicorn tiktok_likeovi_app:app
+
